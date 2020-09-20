@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "name": "Chicken",
+      "price": "10$",
+      "quantity": "2",
+      "seller": "John",
+      "number": "12312",
+      "image": "https://post.healthline.com/wp-content/uploads/2020/07/pizza-beer-1200x628-facebook-1200x628.jpg",
+      "id": 1
+    }
+  ]
+}
